@@ -93,10 +93,14 @@ Verified communication between systems using PowerShell ping commands.
 Installed the Active Directory Domain Services role using Server Manager.
 
 ### AD DS Installation
-<img width="900" alt="AD DS Installation" src="ADD_IMAGE_LINK_HERE">
+<p></p>
+<img width="1448" height="1086" alt="ad-ds-installation" src="https://github.com/user-attachments/assets/80e2c171-493e-4fef-8bb3-137d590dd171" />
+
 
 ### Server Role Selection
-<img width="900" alt="Server Role Selection" src="ADD_IMAGE_LINK_HERE">
+<p></p>
+<img width="1672" height="941" alt="server-role-selection" src="https://github.com/user-attachments/assets/a7faefb2-4cb3-4c50-9e09-bc170e1c2624" />
+
 
 ---
 
