@@ -122,7 +122,9 @@ Created:
 Created user accounts inside Active Directory.
 
 ### User Account Creation
-<img width="900" alt="User Creation" src="ADD_IMAGE_LINK_HERE">
+<p></p>
+<img width="1448" height="1086" alt="user-creation" src="https://github.com/user-attachments/assets/3ef4eae5-ff75-4a10-87be-0aca58bfe074" />
+
 
 ---
 
