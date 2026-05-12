@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
-# Active Directory Home Lab on Microsoft Azure
+Active Directory Home Lab on Microsoft Azure
 
 ## Overview
 
