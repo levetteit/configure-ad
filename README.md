@@ -71,7 +71,9 @@ Created Windows Server and Windows 11 virtual machines inside Microsoft Azure.
 Disabled Windows Defender Firewall temporarily to allow internal lab communication and testing.
 
 ### Firewall Configuration
-<img width="900" alt="Firewall Configuration" src="ADD_IMAGE_LINK_HERE">
+<p></p>
+<img width="1672" height="941" alt="firewall-configuration jpg" src="https://github.com/user-attachments/assets/ebd75447-5a3c-4206-8b60-1f4f7f410550" />
+
 
 ---
 
@@ -80,7 +82,9 @@ Disabled Windows Defender Firewall temporarily to allow internal lab communicati
 Verified communication between systems using PowerShell ping commands.
 
 ### Network Connectivity Test
-<img width="900" alt="Ping Test" src="ADD_IMAGE_LINK_HERE">
+<p></p>
+<img width="1448" height="1086" alt="ping-test jpg" src="https://github.com/user-attachments/assets/4389e2b6-8150-42be-bd5c-2ad3a28e5e97" />
+
 
 ---
 
