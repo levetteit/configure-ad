@@ -133,7 +133,7 @@ Created user accounts inside Active Directory.
 Joined the Windows 11 client machine to the domain.
 
 ### Domain Join Configuration
-<img width="900" alt="Domain Join" src="ADD_IMAGE_LINK_HERE">
+
 
 ---
 
@@ -148,7 +148,7 @@ The script:
 - Added users into the Organizational Unit
 
 ### PowerShell Automation
-<img width="900" alt="PowerShell Automation" src="ADD_IMAGE_LINK_HERE">
+
 
 ---
 
