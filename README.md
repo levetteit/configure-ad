@@ -62,12 +62,7 @@ The lab simulates a small enterprise environment using a Windows Server Domain C
 ## 1. Created Azure Virtual Machines
 
 Created Windows Server and Windows 11 virtual machines inside Microsoft Azure.
-
-### Azure VM Deployment
-<img width="900" alt="Azure VM Deployment" src="ADD_IMAGE_LINK_HERE">
-
-### Virtual Machine Creation
-<img width="900" alt="Virtual Machine Creation" src="ADD_IMAGE_LINK_HERE">
+>
 
 ---
 
