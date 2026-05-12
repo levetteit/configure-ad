@@ -113,9 +113,9 @@ Created:
 - _ADMINS
 
 ### Organizational Units
-<img width="900" alt="Organizational Units" src="ADD_IMAGE_LINK_HERE">
+<p></p>
+<img width="1448" height="1086" alt="organizational-units" src="https://github.com/user-attachments/assets/678af4c3-932f-4c14-86ec-d41b742edc38" />
 
----
 
 # 6. Created User Accounts
 
