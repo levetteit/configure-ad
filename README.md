@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
-Active Directory Home Lab on Microsoft Azure
+# Active Directory Home Lab on Microsoft Azure
 
 ## Overview
 
@@ -68,7 +68,7 @@ Created Windows Server and Windows 11 virtual machines inside Microsoft Azure.
 
 # 2. Configured Windows Firewall
 
-Disabled Windows Defender Firewall temporarily to allow internal lab communication and testing.
+Temporarily disabled Windows Defender Firewall during connectivity testing in this isolated lab. **Security note:** Disabling a firewall is not an acceptable persistent production configuration. Re-enable it and use scoped inbound rules for required traffic; re-verification with the firewall enabled is a future lab task.
 
 ### Firewall Configuration
 <p></p>
@@ -134,6 +134,8 @@ Joined the Windows 11 client machine to the domain.
 
 ### Domain Join Configuration
 
+The lab walkthrough reports that CLIENT-1 was joined to the domain. **Evidence pending:** add a sanitized screenshot of System > About/domain membership and verification output such as `whoami /fqdn` from the joined client. Do not publish credentials or identifiable infrastructure details.
+
 
 ---
 
@@ -149,8 +151,23 @@ The script:
 
 ### PowerShell Automation
 
+**Evidence pending:** publish the sanitized PowerShell script, a sample of its input format, and redacted execution results. Avoid committing passwords or account secrets. The current README describes the exercise but does not include the script itself.
+
 
 ---
+
+## Evidence and validation status
+
+| Exercise | Current evidence | Recommended verification |
+| --- | --- | --- |
+| Azure VM provisioning | Described | Redacted VM inventory |
+| Connectivity test | Screenshot | Retest with firewall enabled |
+| AD DS role installation | Screenshots | Confirm domain controller and DNS settings |
+| OUs and user creation | Screenshots | Sanitized object properties |
+| Client domain join | Described only | Client membership screenshot and command output |
+| PowerShell account provisioning | Described only | Sanitized script and execution output |
+
+**Scope:** A personal training environment. No production access, enterprise-scale operations, or security certification is claimed.
 
 # Skills Demonstrated
 
